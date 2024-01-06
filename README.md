@@ -7,24 +7,23 @@ https://youtu.be/Wvf0mBNGjXY
 
 ## 2. Networking
 https://youtu.be/0uflG0SemyM
-
 https://youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H
 
 ## 3. Linux
-https://lnkd.in/d7gzxH5z
-https://lnkd.in/dr4pjCV3
-https://lnkd.in/dzTQE4b7
+https://youtu.be/V1y-mbWM3B8
+https://youtu.be/ROjZy1WbCIA
+https://youtu.be/aaEoyVIowk8
 
 ## 4. Shell scripting
-https://lnkd.in/dKrD_up7
-https://lnkd.in/dJVqMt3Y
-https://lnkd.in/d7VVbbNJ
+https://youtu.be/v-F3YLd6oMw
+https://youtu.be/9ckXibjManw
+https://youtu.be/zWVV31NYi1U
 
 ## 5. Git & GitHub
-https://lnkd.in/dEp3KrTJ
-https://lnkd.in/d6aM7Ek7
-https://lnkd.in/duksFRgG
-https://lnkd.in/ddpKXxqt
+https://youtu.be/8JJ101D3knE
+https://youtu.be/eeuNAIZoWRU
+https://youtu.be/SWYqp7iY_Tc
+https://youtu.be/RGOj5yH7evk
 
 ## 6. Databases
 https://youtu.be/HXV3zeQKqGY
@@ -82,11 +81,8 @@ https://youtu.be/s4cXrNEDYiw
 
 ## 18. Prometheus
 https://youtu.be/7gW5pSM6dlU
-
 https://youtu.be/cF2P9d7rBlg
 
 ## 19. Grafana
-
 https://youtu.be/w-c3KYKQQfs
-
 https://youtu.be/hePmCMmekmo
