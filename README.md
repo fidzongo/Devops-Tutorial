@@ -3,11 +3,11 @@
 COMPLETE DEVOPS TUTORIAL:
 
 ## 1. DevOps Pre-requisite
-[https://lnkd.in/dD9Z_5qA](https://youtu.be/Wvf0mBNGjXY)
+https://youtu.be/Wvf0mBNGjXY
 
 ## 2. Networking
-[https://lnkd.in/dEmZ8zhY](https://youtu.be/0uflG0SemyM)
-[https://lnkd.in/dwfmwmA9](https://youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H)
+https://youtu.be/0uflG0SemyM
+https://youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H
 
 ## 3. Linux
 https://lnkd.in/d7gzxH5z
