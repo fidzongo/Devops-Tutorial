@@ -27,67 +27,66 @@ https://lnkd.in/duksFRgG
 https://lnkd.in/ddpKXxqt
 
 ## 6. Databases
-https://lnkd.in/duMVr4bn
-https://lnkd.in/dnUQ_uGe
+https://youtu.be/HXV3zeQKqGY
+https://youtu.be/7S_tz1z_5bA
 
 ## 7. Artifact Repository Manager
-https://lnkd.in/dgNHs7WD
+https://youtu.be/yZFvJEygn_g
 
 ## 8. Docker
-https://lnkd.in/dPddbJTf
-https://lnkd.in/dnjHdxPR
+https://youtu.be/pTFZFxd4hOI
+https://youtu.be/3c-iBn73dDE
 
 ## 9. Jenkins
-https://lnkd.in/dMHv9T8U
-https://lnkd.in/dcynPYYH
+https://youtu.be/3a8KsB5wJDE
+https://youtu.be/nCKxl7Q_20I
 
 ## 10. AWS
-
-https://lnkd.in/dz7d5qEc
-https://lnkd.in/dmi-TMv9
-https://lnkd.in/dx-iqVNe
+https://youtu.be/3hLmDS179YE
+https://youtu.be/k1RI5locZE4
+https://youtu.be/Ia-UEYYR44s
 
 ## 11. SSH
 Mobaxterm :
-https://lnkd.in/ds7nUhbx
+https://youtu.be/hUoYVZlioRc
 
 Putty :
-https://lnkd.in/gGgW7Ns9
+https://youtu.be/umFEuHWJW3w
 
 ## 12. Yaml
-https://lnkd.in/dNqrXjmV
-https://lnkd.in/dNqrXjmV
+https://youtu.be/GOk4IoYhM9U
+https://youtu.be/GOk4IoYhM9U
 
 ## 13. Kubernetes
-https://lnkd.in/duGZwHYX
-https://lnkd.in/de84ESNv
+https://youtu.be/X48VuDVv0do
+https://youtu.be/d6WC5n9G_sM
 
 ## 14. Helm
-https://lnkd.in/ds_8WB7G
+https://youtu.be/-ykwb1d0DXU
 
 ## 15. Terraform
-https://lnkd.in/dvpzNT5M
-https://lnkd.in/dRs3YFu3
-https://lnkd.in/d8nkTj3n
+https://youtu.be/SLB_c_ayRMo
+https://youtu.be/7xngnjfIlK4
+https://youtu.be/YcJ9IeukJL8
 
 ## 16. Python
-https://lnkd.in/d-EhshQz
-https://lnkd.in/dYjay9ia
-https://lnkd.in/dFtNz_9D
-https://lnkd.in/dcYq8nE2
+https://youtu.be/_uQrJ0TkZlc
+https://youtu.be/rfscVS0vtbw
+https://youtu.be/t8pPdKYpowI
+https://youtu.be/8DvywoWv6fI
 
 ## 17. Ansible
-https://lnkd.in/dGKkrXrA
-https://lnkd.in/dNugwtVW
-https://lnkd.in/dhknHJXp
+https://youtu.be/EcnqJbxBcM0
+https://youtu.be/9Ua2b06oAr4
+https://youtu.be/s4cXrNEDYiw
 
 ## 18. Prometheus
-https://lnkd.in/dpXhmVqs
+https://youtu.be/7gW5pSM6dlU
 
-https://lnkd.in/dStQbpRX
+https://youtu.be/cF2P9d7rBlg
 
 ## 19. Grafana
 
-https://lnkd.in/ddAV7_-p
+https://youtu.be/w-c3KYKQQfs
 
-https://lnkd.in/dRwfE7A4
+https://youtu.be/hePmCMmekmo
